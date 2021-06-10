@@ -1,0 +1,36 @@
+.log {
+  padding-top: 600px;
+  padding: 12px 200px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.log input {
+  margin: 0.4rem;
+  padding: 0.4rem;
+  border-radius: 0.2rem;
+  border: none;
+  color: grey;
+  width: 300px;
+  height: 30px;
+}
+
+.btn {
+  background-color: #64a584;
+  color: white;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+  width: 300px;
+  height: 30px;
+  margin: 0.4rem;
+  padding: 0.4rem;
+}
+.pro {
+  align-items: center;
+  justify-content: center;
+  padding: 12px 200px;
+  padding-top: 300px;
+}
